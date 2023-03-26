@@ -288,7 +288,7 @@ let m2 = `
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 `
 let pp = './Guru.jpg' 
-    conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, 
+    conn.sendButton(m.chat, m2, '𝒁𝑰𝑫𝑰 🕊⋆❤𝑵𝑨𝑾𝑨𝑩\n▢ Follow on Whatsapp\nhttps://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO\n', pp, 
       ['⌬ INFO', `${usedPrefix}info`]
     ,m, rpyt)
 
